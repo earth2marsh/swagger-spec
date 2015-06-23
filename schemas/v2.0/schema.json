@@ -1017,7 +1017,8 @@
             "number",
             "integer",
             "boolean",
-            "array"
+            "array",
+            "file"
           ]
         },
         "format": {
